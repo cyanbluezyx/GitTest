@@ -1,1 +1,2 @@
-this is a test for Git
+this is a test for Git.
+I have updated this file.
